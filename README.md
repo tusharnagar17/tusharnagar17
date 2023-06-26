@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Tushar Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -9,6 +8,10 @@
 <p align="left"> <a href="https://twitter.com/tusharnagar_17" target="blank"><img src="https://img.shields.io/twitter/follow/tusharnagar_17?logo=twitter&style=for-the-badge" alt="tusharnagar_17" /></a> </p>
 
 - 🌱 I’m currently learning **React, Redux, Tailwind,**
+
+- 👯 I’m looking to collaborate on **Frontend related projects**
+
+- 🤝 I’m looking for help with **Getting Job**
 
 - 💬 Ask me about **React, Javascript, Css, HTML**
 
