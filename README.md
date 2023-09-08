@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React, Redux, Tailwind,**
+- 🌱 I’m currently learning **Redux, Tailwind, Express, Node, MongoDB**
 
 - 👯 I’m looking to collaborate on **Frontend related projects**
 
@@ -12,7 +12,6 @@
 - 📫 How to reach me **nagartushar771@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
