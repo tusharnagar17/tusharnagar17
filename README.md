@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Redux, Tailwind, Express, Node, MongoDB**
 
-- 👯 I’m looking to collaborate on **Frontend related projects**
-
-- 🤝 I’m looking for help with **Getting Job**
+- 👯 I’m looking to collaborate on **Website and mobile development related projects**
 
 - 💬 Ask me about **React, Javascript, Css, HTML**
 
