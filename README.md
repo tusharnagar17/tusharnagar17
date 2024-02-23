@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tushar Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Redux, Tailwind, Express, Node, MongoDB**
+- 🌱 I'm currently looking **MERN** stack based full-time based opportunity. 
 
-- 👯 I’m looking to collaborate on **Website and mobile development related projects**
+- 🌱 I’m looking to collaborate on **Website and mobile development related projects**
 
-- 💬 Ask me about **React, Javascript, Css, HTML**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **nagartushar771@gmail.com**
 
