@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tushar Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I'm currently looking **MERN** stack based full-time based opportunity. 
+- 🌱 I'm currently looking **Freelance/Full-stack based** opportunity . 
 
-- 🌱 I’m looking to collaborate on **Website and mobile development related projects**
+- 🌱 I’m looking to collaborate on **Responsive Website and mobile development related projects**
 
-- 💬 Ask me about **MERN**
+- 💬 Skills web2 Based :**Next.js & React.js,   Javascript & Typescript, SCSS & Tailwind,  MongoDB, Express, PostgreSQL, JEST, Cypress testing**
+- ⚡ Skills web3 based: **Hardhat, Solidity, Ether.js**
 
 - 📫 How to reach me **nagartushar771@gmail.com**
 
